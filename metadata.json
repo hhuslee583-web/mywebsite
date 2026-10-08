@@ -1,0 +1,8 @@
+{
+  "name": "Hugme - Virtual Psychology Assistant & Cozy Emotional Support",
+  "description": "Hugme is a safe, cozy emotional support sanctuary featuring Uise, your warm virtual psychology assistant. Talk through feelings, track moods, journal privately, and relax with gentle calming exercises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
